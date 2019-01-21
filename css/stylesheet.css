@@ -49,3 +49,8 @@ p {
 .fa-heart {
   color:red;
 }
+
+.button {
+  margin: 16px;
+  font-weight: bolder;
+}
