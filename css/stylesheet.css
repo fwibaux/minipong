@@ -51,6 +51,6 @@ p {
 }
 
 .button {
-  margin: 16px;
-  font-weight: bolder;
+  margin: 16px        !important;
+  font-weight: bolder !important;
 }
