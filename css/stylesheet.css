@@ -42,9 +42,9 @@ p {
   padding-top: 10px;
 }
 
-  .footer > a {
+.footer > a {
     color: #4266A0;
-  }
+}
 
 .fa-heart {
   color:red;
@@ -53,4 +53,17 @@ p {
 .btn {
   margin: 16px        !important;
   font-weight: bolder !important;
+}
+
+#address a {
+  text-decoration: none;
+  color: black        !important;
+}
+
+#address a:visited {
+  color: black        !important;
+  }
+
+#address a:hover {
+  text-decoration: none
 }
